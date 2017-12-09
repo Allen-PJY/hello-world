@@ -1,4 +1,4 @@
 import time
 
 
-print('hello world! %s' % str(ime.ctime()))
+print('hello world! %s' % str(time.ctime()))
